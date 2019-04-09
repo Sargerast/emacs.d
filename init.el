@@ -114,6 +114,7 @@
 ;;(require 'init-nix)
 (maybe-require-package 'nginx-mode)
 
+(require 'init-latex)
 (require 'init-paredit)
 (require 'init-lisp)
 (require 'init-slime)
