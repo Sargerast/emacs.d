@@ -107,7 +107,7 @@
 (require 'init-dash)
 
 ;; Extra packages which don't require any configuration
-
+(require-package 'sr-speedbar)
 (require-package 'gnuplot)
 (require-package 'dsvn)
 (when *is-a-mac*
